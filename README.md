@@ -4,7 +4,7 @@ The **Animated Countdown** is a fun and interactive web application that display
 
 This project is built using HTML, CSS, and JavaScript, making it easy to integrate and customize according to your preferences. Whether you're looking to add some flair to your website or create an engaging user experience, the Animated Countdown is a great choice.
 
-[Deployed Link]() <br/>
+[Deployed Link](https://iqbalahmadi.github.io/Animated-Countdown/) <br/>
 
 ![Demo](./asset/Demo.gif)
 
